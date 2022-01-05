@@ -22,6 +22,13 @@ const Home: NextPage = () => {
 
         <video className={styles.video} autoPlay loop muted playsInline src="/video.mp4" />
 
+        <p className={styles.description}>
+          As easily as sharing your screen
+        </p>
+
+        <img className={styles.video} src="/image.png" />
+
+
         <div className={styles.grid}>
           <a
             href="https://github.com/slavingia/metazoom#readme"
