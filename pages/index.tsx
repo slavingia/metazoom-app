@@ -28,7 +28,7 @@ const Home: NextPage = () => {
             className={styles.card}
           >
             <h2>Get started &rarr;</h2>
-            <p>Download the plugin to a specific folder, and restart Zoom. That's it!</p>
+            <p>TLDR: Download the plugin, move it to a specific folder, and restart Zoom.</p>
           </a>
 
           <a
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
             className={styles.card}
           >
             <h2>Contribute &rarr;</h2>
-            <p>The source code is available for inspection–and forking!– on GitHub.</p>
+            <p>The source code is available for inspection and contribution on GitHub.</p>
           </a>
         </div>
       </main>
