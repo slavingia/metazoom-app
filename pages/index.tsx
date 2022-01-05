@@ -42,7 +42,7 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-        A project by{' '}
+        A project by {' '}
         <a
           href="https://twitter.com/shl"
           target="_blank"
