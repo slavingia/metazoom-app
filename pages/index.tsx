@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Share a pixellated version of your screen
+          Share a pixelated version of your screen
         </p>
 
         <video className={styles.video} autoPlay loop muted playsInline src="/video.mp4" />
